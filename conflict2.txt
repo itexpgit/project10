@@ -1,1 +1,2 @@
 This is conflict2 test file from server
+hello conflict2 file
