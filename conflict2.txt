@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is conflict2 test file from server
 hello conflict2 file
+=======
+This is conflict2 test file from server
+>>>>>>> 7bf9391b26d924416ad68166dd22a596486a7f1c
+this is 3 line
