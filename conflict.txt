@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is conflict file from server 
+=======
+this is conflict file from  server
+>>>>>>> 9fa968fa424d885e6a4ad8ba7c69b497c4b07c08
+line 2
